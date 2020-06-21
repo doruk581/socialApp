@@ -1,0 +1,13 @@
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Application.deps.json
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Application.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete

@@ -1,0 +1,11 @@
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/bin/Debug/netcoreapp3.1/Persistence.deps.json
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfoInputs.cache
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfo.cs
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/doruk/RiderProjects/social-app/SocialApp/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CopyComplete
